@@ -1,5 +1,7 @@
 # Hackintosh, Asus ProArt B760 CREATOR, Intel Core i9 14900KF, AMD Radeon RX 6650 XT
 
+![Overview](https://github.com/user-attachments/assets/7d5260ff-637f-4fde-810a-187441a74bfa)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.0.1)
